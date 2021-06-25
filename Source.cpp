@@ -15,7 +15,7 @@ int main()
 	cout << "Mark" << endl;
 	cout << "Vladimir " << endl;
 	cout << "Lesha" << endl;
-	cout << "Nikita" << endl;
+	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
 
 
