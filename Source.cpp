@@ -12,7 +12,6 @@ int main()
 	system("color 02");
 	srand(time(NULL));
 	cout << "Vladislav" << endl;
-	
 	cout << "Alburt-Alina" << endl;
 	cout << "Alburt-Alina" << endl; 
 	cout << "Teacher" << endl;
@@ -25,29 +24,12 @@ int main()
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
 	cout << "nigger" << endl;
-
-//НЕГРЫ 
-
-
-
-
-
-
-
-
-
-
-
-
+//НЕГРЫ
 	cout << "Ilya" << endl;
-=======
 	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
 	cout << "Victor" << endl;
 	cout << "Igor" << endl;
 	cout << "����� ����� �����" << endl;
-
-
-
 	cout << "t   House:nn";
 	cout << "t     / \\\n";
 	cout << "t    /   \\\n";
@@ -57,6 +39,4 @@ int main()
 	cout << "t   |    | \n";
 	cout << "t   |    | \n";
 	cout << "t   |____| \n";
->>>>>>> 8113ccc66120d6365f36b365477cc6b02f84156b
-}
 }
