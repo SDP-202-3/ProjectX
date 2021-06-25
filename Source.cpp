@@ -14,7 +14,7 @@ int main()
 	cout << "Teacher" << endl;
 	cout << "Mark" << endl;
 	cout << "Vladimir " << endl;
-	cout << "Lesha" << endl;
+	cout << "Алексей " << endl;
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
 
