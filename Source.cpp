@@ -20,20 +20,5 @@ int main()
 	cout << "Doshik" << endl;
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	cout << "Ilya" << endl;
 }
