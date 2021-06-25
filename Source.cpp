@@ -24,4 +24,6 @@ int main()
 	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
 	cout << "Victor" << endl;
 	cout << "Igor" << endl;
+	cout << "Дошан нюхай бебру" << endl;
+
 }
