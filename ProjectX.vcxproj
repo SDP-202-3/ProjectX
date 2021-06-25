@@ -160,6 +160,9 @@
     <ClInclude Include="Марк-Жаренная картошка.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="trebla_anila.h" />
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="name.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
