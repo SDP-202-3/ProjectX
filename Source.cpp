@@ -23,4 +23,15 @@ int main()
 	cout << "Igor" << endl;
 	cout << "Дошан нюхай бебру" << endl;
 
+
+
+	cout << "t   House:nn";
+	cout << "t     / \n";
+	cout << "t    /   \n";
+	cout << "t   /     \n";
+	cout << "t  /------ \n";
+	cout << "t / |    |  \n";
+	cout << "t   |    | \n";
+	cout << "t   |    | \n";
+	cout << "t   |____| \n";
 }
