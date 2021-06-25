@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 class antimage {
 public:
 	antimage(int a,int b,int c,int d);

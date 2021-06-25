@@ -48,7 +48,7 @@ int main()
 
 cout << "MARK NADOEL" << endl;
 	cout << "Ilya" << endl;
-=======
+==
 	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
 	cout << "Victor" << endl;
 	cout << "Igor" << endl;
@@ -63,3 +63,4 @@ cout << "MARK NADOEL" << endl;
 	cout << "t   |    | \n";
 	cout << "t   |____| \n";
 }
+
