@@ -12,6 +12,5 @@ int main()
 	system("color 02");
 	srand(time(NULL));
 	cout << "Teacher" << endl;
-	cout << "Victor Shilov Evgenievich" << endl;
-
+	cout << "Victor" << endl;
 }
