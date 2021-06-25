@@ -145,6 +145,9 @@
     <ClInclude Include="Aleksey.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Nikita.h" />
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="Vladimir.h" />
   </ItemGroup>
   <ItemGroup>
