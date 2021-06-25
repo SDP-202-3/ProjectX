@@ -18,21 +18,6 @@ int main()
 	cout << "Алексей " << endl;
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
-
-	cout << "Gyggygyygyg" << endl;
-
-
-
-
-
-
-
-
-
-
-
-
-
-																																										cout << "Ilya" << endl;
+	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
 	cout << "Victor" << endl;
 }
