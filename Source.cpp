@@ -12,6 +12,8 @@ int main()
 	srand(time(NULL));
 	cout << "Alburt-Alina" << endl;
 	cout << "Teacher" << endl;
+	cout << "Ruslan" << endl;
+	cout << "ГЫ" << endl;
 	cout << "жаренная картошка" << endl;
 	cout << "Vladimir " << endl;
 	cout << "Lesha" << endl;
@@ -20,5 +22,9 @@ int main()
 	cout << "Doshik" << endl;
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
-	cout << "Ilya" << endl;
+	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
+	cout << "Victor" << endl;
+	cout << "Igor" << endl;
+	cout << "????? ????? ?????" << endl;
+
 }
