@@ -31,11 +31,11 @@ int main()
 
 
 	cout << "t   House:nn";
-	cout << "t     / \n";
-	cout << "t    /   \n";
-	cout << "t   /     \n";
-	cout << "t  /------ \n";
-	cout << "t / |    |  \n";
+	cout << "t     / \\\n";
+	cout << "t    /   \\\n";
+	cout << "t   /     \\\n";
+	cout << "t  /------ \\\n";
+	cout << "t / |    |  \\\n";
 	cout << "t   |    | \n";
 	cout << "t   |    | \n";
 	cout << "t   |____| \n";
