@@ -15,7 +15,7 @@ int main()
 	cout << "жаренная картошка" << endl;
 	cout << "Vladimir " << endl;
 	cout << "Lesha" << endl;
-	cout << "Nikita" << endl;
+	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
 
 
@@ -32,4 +32,5 @@ int main()
 
 
 
+	cout << "Ilya" << endl;
 }
