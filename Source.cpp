@@ -10,6 +10,9 @@ int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
 	srand(time(NULL));
+	cout << "Alburt-Alina" << endl;
 	cout << "Teacher" << endl;
 	cout << "Dias" << endl;
+	cout << "Vladimir " << endl;
+	cout << "Lesha" << endl;
 }
