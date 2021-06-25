@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 #include <ctime>
 #include <fstream>
@@ -9,16 +9,17 @@ using namespace std;
 int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
-	system("color 02");
 	srand(time(NULL));
-	cout << "Vladislav" << endl;
-	
 	cout << "Alburt-Alina" << endl;
-	cout << "Alburt-Alina" << endl; 
 	cout << "Teacher" << endl;
+	cout << "æàðåííàÿ êàðòîøêà" << endl;
 	cout << "Ruslan" << endl;
-	cout << "ГЫ" << endl;
+	cout << "Ð“Ð«" << endl;
+	cout << "Ð¶Ð°Ñ€ÐµÐ½Ð½Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¾ÑˆÐºÐ°" << endl;
 	cout << "жаренная картошка" << endl;
+	cout << "Ruslan" << endl;
+	cout << "Р“Р«" << endl;
+	cout << "Р¶Р°СЂРµРЅРЅР°СЏ РєР°СЂС‚РѕС€РєР°" << endl;
 	cout << "fried potatoes" << endl;
 	cout << "Vladimir " << endl;
 	cout << "������� " << endl;
@@ -32,12 +33,14 @@ int main()
 
 
 	cout << "t   House:nn";
-	cout << "t     / \n";
-	cout << "t    /   \n";
-	cout << "t   /     \n";
-	cout << "t  /------ \n";
-	cout << "t / |    |  \n";
+	cout << "t     / \\\n";
+	cout << "t    /   \\\n";
+	cout << "t   /     \\\n";
+	cout << "t  /------ \\\n";
+	cout << "t / |    |  \\\n";
 	cout << "t   |    | \n";
 	cout << "t   |    | \n";
 	cout << "t   |____| \n";
+>>>>>>> 8113ccc66120d6365f36b365477cc6b02f84156b
+}
 }
