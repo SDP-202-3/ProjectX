@@ -10,14 +10,14 @@ int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
 	srand(time(NULL));
-	cout << "Alburt-Alina" << endl;
-	cout << "Teacher" << endl;
-	cout << "Mark" << endl;
-	cout << "Dias" << endl;
-	cout << "Vladimir " << endl;
-	cout << "Lesha" << endl;
-	cout << "Nikita" << endl;
-	cout << "Doshan" << endl;
+																																										cout << "Alburt-Alina" << endl;
+																																										cout << "Teacher" << endl;
+																																										cout << "Mark" << endl;
+																																										cout << "Dias" << endl;
+																																										cout << "Vladimir " << endl;
+																																										cout << "Lesha" << endl;
+																																										cout << "Nikita" << endl;
+																																										cout << "Doshan" << endl;
 
 
 
@@ -33,5 +33,5 @@ int main()
 
 
 
-	cout << "Ilya" << endl;
+																																										cout << "Ilya" << endl;
 }
