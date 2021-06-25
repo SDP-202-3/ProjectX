@@ -16,7 +16,8 @@ int main()
 	cout << "Vladimir " << endl;
 	cout << "Lesha" << endl;
 	cout << "Nikita" << endl;
-	cout << "Doshan" << endl;
+	cout << "Doshik" << endl;
+	cout << "Doshik" << endl;
 
 
 
