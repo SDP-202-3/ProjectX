@@ -9,7 +9,9 @@ using namespace std;
 int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
+	system("color 02");
 	srand(time(NULL));
 	cout << "Teacher" << endl;
+	cout << "Victor Shilov Evgenievich" << endl;
 
 }
