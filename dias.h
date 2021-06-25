@@ -24,6 +24,7 @@ public:
 	}
 	void lox() {
 		cout << "Tko prochital tot LOX!)))" << endl;
+		cout << "Sam lox)))" << endl;
 	}
 	void ghoul() {
 		cout << "DEAD INSIDE s " << mmr << "\n1000-7?????" << endl;

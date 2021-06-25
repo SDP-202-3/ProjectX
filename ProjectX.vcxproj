@@ -163,7 +163,7 @@
     <ClInclude Include="trebla_anila.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="name.h" />
+    <ClInclude Include="Victor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
