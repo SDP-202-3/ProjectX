@@ -144,6 +144,21 @@
   <ItemGroup>
     <ClInclude Include="dias.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aleksey.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Nikita.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vladimir.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="igor.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Марк-Жаренная картошка.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
