@@ -17,6 +17,7 @@ int main()
 	cout << "Alburt-Alina" << endl; 
 	cout << "Teacher" << endl;
 	cout << "Ruslan" << endl;
+	cout << "ГЫ" << endl;
 	cout << "жаренная картошка" << endl;
 	cout << "fried potatoes" << endl;
 	cout << "Vladimir " << endl;
@@ -57,4 +58,5 @@ int main()
 	cout << "t   |    | \n";
 	cout << "t   |____| \n";
 >>>>>>> 8113ccc66120d6365f36b365477cc6b02f84156b
+}
 }
