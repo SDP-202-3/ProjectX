@@ -17,6 +17,7 @@ int main()
 	cout << "Alburt-Alina" << endl; 
 	cout << "Teacher" << endl;
 	cout << "Ruslan" << endl;
+	cout << "ГЫ" << endl;
 	cout << "жаренная картошка" << endl;
 	cout << "fried potatoes" << endl;
 	cout << "Vladimir " << endl;
