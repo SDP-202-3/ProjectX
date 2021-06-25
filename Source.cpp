@@ -16,34 +16,22 @@ int main()
 	cout << "Ruslan" << endl;
 	cout << "Ð“Ð«" << endl;
 	cout << "Ð¶Ð°Ñ€ÐµÐ½Ð½Ð°Ñ ÐºÐ°Ñ€Ñ‚Ð¾ÑˆÐºÐ°" << endl;
+	cout << "жаренная картошка" << endl;
+	cout << "Ruslan" << endl;
+	cout << "Р“Р«" << endl;
+	cout << "Р¶Р°СЂРµРЅРЅР°СЏ РєР°СЂС‚РѕС€РєР°" << endl;
 	cout << "fried potatoes" << endl;
 	cout << "Vladimir " << endl;
-	cout << "Lesha" << endl;
-	cout << "Nikita" << endl;
+	cout << "������� " << endl;
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
-	cout << "Ilya" << endl;
-	cout << "nigger" << endl;
-
-//ÍÅÃÐÛ 
-
-
-
-
-
-
-
-
-
-
-
-cout << "MARK NADOEL" << endl;
-	cout << "Ilya" << endl;
-=======
 	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
 	cout << "Victor" << endl;
 	cout << "Igor" << endl;
-	cout << "ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½" << endl;
+	cout << "����� ����� �����" << endl;
+
+
+
 	cout << "t   House:nn";
 	cout << "t     / \\\n";
 	cout << "t    /   \\\n";
