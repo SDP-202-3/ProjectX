@@ -13,7 +13,7 @@ int main()
 	srand(time(NULL));
 	cout << "Alburt-Alina" << endl;
 	cout << "Teacher" << endl;
-	cout << "жаренная картошка" << endl;
+	cout << "fried potatoes" << endl;
 	cout << "Vladimir " << endl;
 	cout << "Алексей " << endl;
 	cout << "Nikitaaaaaa" << endl;
