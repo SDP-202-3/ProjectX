@@ -12,12 +12,14 @@ int main()
 	srand(time(NULL));
 	cout << "Alburt-Alina" << endl;
 	cout << "Teacher" << endl;
-	cout << "Mark" << endl;
+	cout << "жаренная картошка" << endl;
 	cout << "Vladimir " << endl;
 	cout << "Lesha" << endl;
 	cout << "Nikita" << endl;
 	cout << "Doshik" << endl;
 	cout << "Doshik" << endl;
+	cout << "Nikitaaaaaa" << endl;
+	cout << "Doshan" << endl;
 
 
 
