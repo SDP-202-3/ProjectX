@@ -12,7 +12,26 @@ int main()
 	srand(time(NULL));
 	cout << "Alburt-Alina" << endl;
 	cout << "Teacher" << endl;
+	cout << "Mark" << endl;
 	cout << "Dias" << endl;
 	cout << "Vladimir " << endl;
 	cout << "Lesha" << endl;
+	cout << "Nikita" << endl;
+	cout << "Doshan" << endl;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	cout << "Ilya" << endl;
 }
