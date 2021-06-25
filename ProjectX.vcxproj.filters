@@ -13,4 +13,9 @@
     <ClInclude Include="trebla_anila.h" />
     <ClInclude Include="Victor.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

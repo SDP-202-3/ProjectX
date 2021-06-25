@@ -142,6 +142,9 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Header.h" />
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="dias.h" />
   </ItemGroup>
   <ItemGroup>
