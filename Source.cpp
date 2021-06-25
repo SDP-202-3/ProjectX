@@ -25,17 +25,36 @@ int main()
 	cout << "Nikitaaaaaa" << endl;
 	cout << "Doshan" << endl;
 	cout << "Ilya" << endl;
+	cout << "nigger" << endl;
+
+//ÍÅÃÐÛ 
+
+
+
+
+
+
+
+
+
+
+
+
+	cout << "Ilya" << endl;
+=======
 	cout << "Gyggygyygyg" << endl;																																						cout << "Ilya" << endl;
 	cout << "Victor" << endl;
 	cout << "Igor" << endl;
 	cout << "ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½" << endl;
 	cout << "t   House:nn";
-	cout << "t     / \n";
-	cout << "t    /   \n";
-	cout << "t   /     \n";
-	cout << "t  /------ \n";
-	cout << "t / |    |  \n";
+	cout << "t     / \\\n";
+	cout << "t    /   \\\n";
+	cout << "t   /     \\\n";
+	cout << "t  /------ \\\n";
+	cout << "t / |    |  \\\n";
 	cout << "t   |    | \n";
 	cout << "t   |    | \n";
 	cout << "t   |____| \n";
+>>>>>>> 8113ccc66120d6365f36b365477cc6b02f84156b
+}
 }
