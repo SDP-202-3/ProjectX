@@ -6,21 +6,13 @@
   <ItemGroup>
     <ClInclude Include="dias.h" />
     <ClInclude Include="Aleksey.h" />
-    <ClInclude Include="Nikita.h" />
+    <ClInclude Include="Stavitskiy.h" />
     <ClInclude Include="Vladimir.h" />
     <ClInclude Include="igor.h" />
     <ClInclude Include="Марк-Жаренная картошка.h" />
     <ClInclude Include="trebla_anila.h" />
     <ClInclude Include="Victor.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Header.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="name.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
+    <ClInclude Include="Header.h" />
+    <ClInclude Include="name.h" />
   </ItemGroup>
 </Project>

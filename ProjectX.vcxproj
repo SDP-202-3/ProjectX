@@ -151,7 +151,7 @@
     <ClInclude Include="Aleksey.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Nikita.h" />
+    <ClInclude Include="Stavitskiy.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Vladimir.h" />
